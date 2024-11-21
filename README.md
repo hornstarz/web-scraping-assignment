@@ -1,1 +1,4 @@
 # web-scraping-assignment
+Since the Jupyter Notebook files were very self-explanitory about line by line code. I didn't feel the need tro give additional context through the ReadMe.
+However, I did chose a different styling option for each graph in the Pt. 2 file, than was on the example.
+Also, when figuring out the terrestrial (Earth) days there are in a Martian year, I wasn't sure if that was a line of code needed to calculate this, but since I figure that it was something that could be considered common knowledge, I decided to google the days and input the scientific value in manually - terrestrial_days_in_martian_year = 668.6 * 1.027
